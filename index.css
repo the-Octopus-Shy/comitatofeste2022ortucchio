@@ -12,10 +12,9 @@
 
 /*body*/
 body{
-      background-color: #338abf;
-      font-feature-settings: "aalt";
-  }
-
+  font-feature-settings: "aalt";
+  background-color: hsl(209, 87%, 41%);
+}
 
 /*effetto scritte*/
 .title{
@@ -87,3 +86,7 @@ body{
     width: 300px;
     color: #000100;
   }
+
+  /* codice sfondo bello */
+  
+ 
